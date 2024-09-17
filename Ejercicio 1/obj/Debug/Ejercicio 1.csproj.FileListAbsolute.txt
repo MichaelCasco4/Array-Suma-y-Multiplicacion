@@ -1,0 +1,30 @@
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\esmer\OneDrive\Documentos\Arrays Suma y Multiplicacion\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
